@@ -1,0 +1,2 @@
+# Detection-of-Autonomous-Shuttles-in-Urban-Traffic-Images-Using-Adaptive-Residual-Context
+Adaptive Residual Context (ARC) addresses this challenge through a frozen context branch, trainable specialist branches, and a Context-Guided Bridge that transfers spatial and semantic information while preserving pre-trained knowledge. ARC achieves detection performance comparable to fine-tuned baselines while improving knowledge retention
