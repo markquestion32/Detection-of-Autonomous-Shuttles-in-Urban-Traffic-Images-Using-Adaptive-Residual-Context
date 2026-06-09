@@ -1,0 +1,51 @@
+[
+  {
+    "name": "E0_Pretrained",
+    "shuttle_map50": null,
+    "shuttle_map5095": null,
+    "coco_map50": 0.0,
+    "coco_map5095": 0.0
+  },
+  {
+    "name": "E1_UpperBound",
+    "shuttle_map50": 98.05794731680221,
+    "shuttle_map5095": 82.17241369619359,
+    "coco_map50": 0.0,
+    "coco_map5095": 0.0
+  },
+  {
+    "name": "E2_Naive",
+    "shuttle_map50": 97.35624749499549,
+    "shuttle_map5095": 82.04508850893515,
+    "coco_map50": 0.0,
+    "coco_map5095": 0.0
+  },
+  {
+    "name": "E3_LwF",
+    "shuttle_map50": 97.35624749499549,
+    "shuttle_map5095": 82.04508850893515,
+    "coco_map50": 0.0,
+    "coco_map5095": 0.0
+  },
+  {
+    "name": "E4_Twin",
+    "shuttle_map50": 97.50477103821397,
+    "shuttle_map5095": 82.18264801256069,
+    "coco_map50": 0.0,
+    "coco_map5095": 0.0
+  },
+  {
+    "name": "E5_Transfer",
+    "shuttle_map50": 97.1031793916837,
+    "shuttle_map5095": 75.6091057617749,
+    "coco_map50": 0.0,
+    "coco_map5095": 0.0
+  },
+  {
+    "name": "E6_ShuttleOnly",
+    "shuttle_map50": 97.38258072952556,
+    "shuttle_map5095": 81.10178920706022,
+    "coco_map50": null,
+    "coco_map5095": null
+  }
+]

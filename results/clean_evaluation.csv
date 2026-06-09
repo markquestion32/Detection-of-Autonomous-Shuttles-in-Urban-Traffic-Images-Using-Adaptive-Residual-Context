@@ -1,0 +1,8 @@
+Experiment,Shuttle_mAP50,Shuttle_mAP5095,COCO_mAP50,COCO_mAP5095
+E0_Pretrained,,,0.0,0.0
+E1_UpperBound,98.1,82.2,0.0,0.0
+E2_Naive,97.4,82.0,0.0,0.0
+E3_LwF,97.4,82.0,0.0,0.0
+E4_Twin,97.5,82.2,0.0,0.0
+E5_Transfer,97.1,75.6,0.0,0.0
+E6_ShuttleOnly,97.4,81.1,,
