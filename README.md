@@ -26,8 +26,21 @@ and trainable specialist heads;
 ![1](Arc.jpg)
 2. We propose an adaptive residual attention mechanism that injects spatial
 context into the specialist heads without complex temporal inputs;
-![2](Annotation 2026-06-09 150500.jpg)
+![2](Annotation.jpg)
 4. We show that ARC matches the performance of fully fine-tuned models while
 maintaining the integrity of original features.
+![3](compare.jpg)
+
+## Dataset
+
+The dataset is crafted for detecting autonomous shuttles Vehicles in urban environments, comprising:
+
+- Images capturing diverse urban traffic scenarios.
+- Annotations in YOLO formats.
+- Pre-trained model checkpoints, allowing users to benchmark or further fine-tune.
+This is not the full data set used in the training!
+https://universe.roboflow.com/v1-eaxup/autonomous_shuttles-4/model/1
 
 
+## Contact
+For any questions or issues faced during the execution of code, feel free to reach out to me in: aziz11younes@gmail.com . 
